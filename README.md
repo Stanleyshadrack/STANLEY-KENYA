@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STANLEY-KENYA
 - 👀 I’m interested in Codding
-- 🌱 I’m currently learning Diploma in Information Communication Technology at Nairobi Techninical Training Institute
-- 💞️ I’m looking to collaborate on all Codding languages
+- 🌱 I’m currently taking a Diploma in Information Communication Technology at Nairobi Techninical Training Institute
+- 💞️ I’m looking forward to collaborate on all Codding languages
 - 📫 How to reach me use my email stanleyshadrack213@gmail.com
 
 <!---
